@@ -1,0 +1,5 @@
+C:\Users\Virginia\Documents\SharpDevelop Projects\programa 2\programa 2\obj\Debug\programa 2.csprojResolveAssemblyReference.cache
+C:\Users\Virginia\Documents\SharpDevelop Projects\programa 2\programa 2\bin\Debug\programa 2.exe
+C:\Users\Virginia\Documents\SharpDevelop Projects\programa 2\programa 2\bin\Debug\programa 2.pdb
+C:\Users\Virginia\Documents\SharpDevelop Projects\programa 2\programa 2\obj\Debug\programa 2.exe
+C:\Users\Virginia\Documents\SharpDevelop Projects\programa 2\programa 2\obj\Debug\programa 2.pdb
